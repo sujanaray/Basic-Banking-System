@@ -6,6 +6,10 @@ My 1st task as a web development intern at the Sparks Foundation was to create a
 Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers .
 
 # Technologies used
+1. A numbered list
+      1. A nested numbered list
+      2. Which is numbered
+2. Which is numbered
 -Front End
   -HTML
   -CSS
