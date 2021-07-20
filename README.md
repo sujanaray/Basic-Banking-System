@@ -7,17 +7,17 @@ Home Page > View all Customers > Select and View one Customer > Transfer Money >
 
 # Technologies used
 
-1.Front End
-    1.HTML
-    2.CSS
-    3.JavaScript
-    4.Bootstrap
-2.Back End
-    1.PHP
-3.Database
-    1.MySQL(phpMyAdmin)
-4.Hosting provider used to host the website
-    1.https://app.infinityfree.net/
+1. Front End
+    1. HTML
+    2. CSS
+    3. JavaScript
+    4. Bootstrap
+2. Back End
+    1. PHP
+3. Database
+    1. MySQL(phpMyAdmin)
+4. Hosting provider used to host the website
+    1. https://app.infinityfree.net/
 
 # Youtube demo link with explanation of code
 
